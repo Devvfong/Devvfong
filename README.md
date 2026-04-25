@@ -6,6 +6,7 @@
 ## 🚀 About Me
 - 💻 Building modern web apps with JavaScript & frameworks
 - 🌱 Learning backend, cloud services & best practices
+- ☁️ Deploying backend services on Google VM
 
 ---
 
@@ -31,7 +32,13 @@
 ### ☁️ Backend Services
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NeonDB](https://img.shields.io/badge/NeonDB-0085FF?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+## ☁️ Deployment
+![Google Cloud](https://img.shields.io/badge/Google%20VM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ---
 
 ⭐️ From [Devvfong](https://github.com/Devvfong)
