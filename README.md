@@ -81,7 +81,6 @@ Building modern web applications, scalable backend services, and cloud infrastru
     height="180"
   />
 </p>
----
 
 ## 🔥 GitHub Streak
 
@@ -89,26 +88,6 @@ Building modern web applications, scalable backend services, and cloud infrastru
   <img src="https://streak-stats.demolab.com?user=Devvfong&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
-
-**Tech Stack:** Next.js, TailwindCSS
-
-### 📦 Full Stack SaaS Application
-Authentication, dashboard, API integration, and database management.
-
-**Tech Stack:** Next.js, Prisma, PostgreSQL
-
-### 🔐 Secure Backend API
-RESTful API with authentication and role-based access control.
-
-**Tech Stack:** Node.js, Express.js, PostgreSQL
-
-> Replace these with your actual projects.
 
 ---
 
@@ -117,8 +96,6 @@ RESTful API with authentication and role-based access control.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devvfong&theme=tokyo-night" />
 </p>
-
----
 
 ## 🎯 Current Goals
 
