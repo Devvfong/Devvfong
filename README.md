@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devvfong</h1>
-<h3 align="center">Full Stack JavaScript Developer</h3>
+<h3 align="center">A Dumb Engineer</h3>
 
 <p align="center">
 Building modern web applications, scalable backend services, and cloud infrastructure.
