@@ -76,10 +76,11 @@ Building modern web applications, scalable backend services, and cloud infrastru
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devvfong&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devvfong&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devvfong&show_icons=true&theme=tokyonight"
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
