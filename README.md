@@ -71,17 +71,7 @@ Building modern web applications, scalable backend services, and cloud infrastru
 ![Cloudflare CDN](https://img.shields.io/badge/CDN-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare WAF](https://img.shields.io/badge/WAF-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devvfong&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-</p>
-
+--- 
 ## 🔥 GitHub Streak
 
 <p align="center">
